@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AplicacionViajes</string>
+    <string name="Bienvenida">Bienvenid@ a la app de experiencia viajera </string>
+    <string name="Introduccion_experiencia"> Introduce un lugar visitado</string>
+    <string name="Descripcion_experiencia"> Describe tu experiencia durante tu visita</string>
+    <string name="Guardar">GUARDAR VISITA</string>
+    <string name="Ver">VER VISITAS</string>
+    <string name="Lugar_lista"></string>
+</resources>
